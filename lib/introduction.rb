@@ -14,9 +14,6 @@ end
 
 
 
-introduction (amer) 
-introduction_with_language (amer, ruby)
-introduction_with_language_optional (amer)
 
 
 
